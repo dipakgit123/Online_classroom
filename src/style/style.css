@@ -1,0 +1,120 @@
+/* Hide the top carousel control buttons */
+.carousel-control-prev,
+.carousel-control-next {
+  display: none;
+}
+
+/* Style custom controls and position them beside the indicators */
+.custom-controls {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+  bottom: 0px; /* Adjust this based on how close you want them to the bottom */
+  gap: 130px;
+  margin-top: 30px;
+}
+
+.custom-control1{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+  bottom: -30px; /* Adjust this based on how close you want them to the bottom */
+  gap: 130px;
+  margin-bottom: 15px;
+}
+
+.custom-prev{
+  background-color: transparent;
+  border: none;
+  color: #0093FF;
+  font-weight: 700;
+} 
+
+.custom-prev :disabled{
+  cursor: not-allowed ;
+}
+
+.custom-next {
+  background-color: transparent;
+  border: none;
+  color: #0093FF;
+  font-weight: 700;
+  margin-left: -30px;
+}
+
+
+/* Hide the main indicator */
+
+.classrrom{
+  color: #0093FF;
+  font-family: "Fjalla One", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.login_btn{
+    width: 100px;
+    padding: 7px;
+    text-align: center;
+    border-radius: 50px;
+    color: white;
+    border: none;
+    font-weight: 500;
+    background-image: linear-gradient(to right, #0093FF, #004FFF);
+}
+
+.heading3{
+    font-size: 2rem;
+    font-weight: 400;
+}
+
+.heading1{
+   color: #0093FF;
+  font-family: "Fjalla One", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+  font-size: 2rem;
+}
+.para1{
+    font-size: 1rem;
+    font-weight: 400;
+    color: #606266;
+}
+
+.heading2{
+    color: #0093FF;
+    font-family: "Fjalla One", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 2rem;
+}
+
+.all_item{
+    height: 500px;
+}
+
+
+.carousel-indicators{
+   height: 0px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.social_icons{
+  margin-left: -50px;
+}
+
+.social_icons li{
+
+  color: #666666;
+  margin-left: 10px;
+  padding: 5px;
+  cursor: pointer;
+}
+
+.social_icons li :hover{
+  color: black;
+}

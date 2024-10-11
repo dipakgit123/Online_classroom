@@ -1,0 +1,32 @@
+{
+    "users": [
+        {
+          "id": "9ef9",
+          "firstname": "mayur",
+          "email": "mayur@gmail.com",
+          "city": "nagar",
+          "phone": "9022847474",
+          "gender": "male",
+          "country": "India",
+          "social": [
+            "Linkedin",
+            "whatsapp",
+            "instagram"
+          ]
+        },
+        {
+          "id": "17e0",
+          "firstname": "vaibhav",
+          "password": "123456789",
+          "email": "vaibhavs12@gmail.com",
+          "city": "pune",
+          "phone": "9837373171",
+          "gender": "male",
+          "country": "India",
+          "social": [
+            "Linkedin",
+            "whatsapp"
+          ]
+        }
+      ]
+    }
