@@ -1,32 +1,76 @@
 {
-    "users": [
-        {
-          "id": "9ef9",
-          "firstname": "mayur",
-          "email": "mayur@gmail.com",
-          "city": "nagar",
-          "phone": "9022847474",
-          "gender": "male",
-          "country": "India",
-          "social": [
-            "Linkedin",
-            "whatsapp",
-            "instagram"
-          ]
-        },
-        {
-          "id": "17e0",
-          "firstname": "vaibhav",
-          "password": "123456789",
-          "email": "vaibhavs12@gmail.com",
-          "city": "pune",
-          "phone": "9837373171",
-          "gender": "male",
-          "country": "India",
-          "social": [
-            "Linkedin",
-            "whatsapp"
-          ]
-        }
+  "users": [
+    {
+      "id": "9ef9",
+      "firstname": "mayur",
+      "email": "mayur@gmail.com",
+      "city": "nagar",
+      "phone": "9022847474",
+      "gender": "male",
+      "country": "India",
+      "social": [
+        "Linkedin",
+        "whatsapp",
+        "instagram"
+      ]
+    },
+    {
+      "id": "17e0",
+      "firstname": "vaibhav",
+      "password": "123456789",
+      "email": "vaibhavs12@gmail.com",
+      "city": "pune",
+      "phone": "9837373171",
+      "gender": "male",
+      "country": "India",
+      "social": [
+        "Linkedin",
+        "whatsapp"
       ]
     }
+  ],
+  "signup": [
+    {
+      "id": "1",
+      "uname": "mayur",
+      "email": "mayur@gmail.com",
+      "password": "12345678"
+    },
+    {
+      "id": "9ccf",
+      "uname": "DIPAK",
+      "email": "DIPAK@gmail.com",
+      "password": "123"
+    },
+    {
+      "id": "3548",
+      "uname": "sharad",
+      "email": "sharad124@gmail.com",
+      "password": "Dipak@12345"
+    },
+    {
+      "id": "c8b2",
+      "uname": "mayurbhaikotkar",
+      "email": "kotkar12@gmail.com",
+      "password": "Bhana@123"
+    },
+    {
+      "id": "6946",
+      "uname": "abc",
+      "email": "abc2@gmail.com",
+      "password": "Abc@123456"
+    },
+    {
+      "id": "e6ab",
+      "uname": "abc",
+      "email": "abc2@gmail.com",
+      "password": "Abc@123456"
+    },
+    {
+      "id": "2408",
+      "uname": "kunal",
+      "email": "kunal@gmail.com",
+      "password": "Kunal@123456"
+    }
+  ]
+}

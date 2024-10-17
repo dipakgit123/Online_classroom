@@ -81,6 +81,7 @@
     font-size: 1rem;
     font-weight: 400;
     color: #606266;
+
 }
 
 .heading2{
@@ -117,4 +118,29 @@
 
 .social_icons li :hover{
   color: black;
+}
+
+.signup_btn{
+  color: gray;
+  font-weight: 500;
+  margin-top: 10px;
+}
+
+.signup_btn button{
+  border: none;
+  background-color: white;
+  color:#0093FF;
+  font-weight: 700;
+}
+
+.reset_btn{
+
+    width: auto;
+    padding: 10px;
+    text-align: center;
+    border-radius: 25px;
+    color: white;
+    border: none;
+    font-weight: 500;
+    background-image: linear-gradient(to right, #0093FF, #004FFF);
 }
