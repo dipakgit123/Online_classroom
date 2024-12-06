@@ -71,6 +71,637 @@
       "uname": "kunal",
       "email": "kunal@gmail.com",
       "password": "Kunal@123456"
+    },
+    {
+      "id": "86fa",
+      "uname": "rushi",
+      "email": "rushi@gmail.com",
+      "password": "Rushi@1234"
+    },
+    {
+      "id": "ee8a",
+      "uname": "dipak",
+      "email": "dipak2@gmail.com",
+      "password": "Dipak@1234"
+    },
+    {
+      "id": "ba74",
+      "uname": "Vaibhav",
+      "email": "vaibhavs12@gmail.com",
+      "password": "Vaibhav@123",
+      "phone": "9033647474",
+      "city": "pune"
+    },
+    {
+      "id": "bd54",
+      "uname": "dipak",
+      "email": "dipak9@gmail.com",
+      "password": "Dipak@1234",
+      "phone": "9022585979",
+      "city": "pune"
+    },
+    {
+      "id": "0047",
+      "uname": "aditya",
+      "email": "aditya@gmail.com",
+      "password": "Aditya@123",
+      "phone": "9098728278",
+      "city": "123"
+    },
+    {
+      "id": "8750",
+      "uname": "Dipak",
+      "email": "punddipak9@gmail.com",
+      "password": "Dipak@12345",
+      "phone": "9022585979",
+      "city": "pune"
+    },
+    {
+      "id": "9bd1",
+      "uname": "dipak",
+      "email": "pundddipak12@gmail.com",
+      "password": "Dipak@1234",
+      "phone": "9022595959",
+      "city": "pune"
+    },
+    {
+      "id": "e559",
+      "uname": "dipakpund",
+      "email": "punddipak123@gmail.com",
+      "password": "Dipak@9022",
+      "phone": "9022567678",
+      "city": "pune"
+    },
+    {
+      "id": "79da",
+      "uname": "dipakpp",
+      "email": "punddipak123@gmail.com",
+      "password": "Testing@123",
+      "phone": "9033228890",
+      "city": "pune"
+    },
+    {
+      "id": "db0d",
+      "uname": "bhusan",
+      "email": "bhusankumar2@gmail.com",
+      "password": "Bhusan@123",
+      "phone": "95617288999",
+      "city": "pune"
+    },
+    {
+      "id": "1798",
+      "uname": "Dipak",
+      "email": "dipak@gmail.com",
+      "password": "Dipak@123",
+      "phone": "9022585979",
+      "city": "punro"
+    },
+    {
+      "id": "f297",
+      "uname": "Dipak",
+      "email": "punddipak123@gmail.com",
+      "password": "Dipak@123",
+      "phone": "9022585979",
+      "city": "pune"
+    },
+    {
+      "id": "d5df",
+      "uname": "abcd",
+      "email": "abcd@gmail.com",
+      "password": "Abcd@123",
+      "phone": "9059593939",
+      "city": "nagar"
+    },
+    {
+      "id": "d941",
+      "uname": "dipak",
+      "email": "dipak12@gmail.com",
+      "password": "Dipak@12",
+      "phone": "9022595959",
+      "city": "pune"
+    },
+    {
+      "id": "9c77",
+      "uname": "dipak",
+      "email": "punddipak123@gmail.com",
+      "password": "Dipak@123",
+      "phone": "90225785",
+      "city": "pune"
+    },
+    {
+      "id": "63d1",
+      "uname": "dipak",
+      "email": "dipak12@gmail.com",
+      "password": "Dipak@9011",
+      "phone": "9022595959",
+      "city": "nagar"
+    }
+  ],
+  "students": [
+    {
+      "id": "4b21",
+      "enrollment_id": "EN895424",
+      "course": "Defensive Diving Training (DTT)",
+      "batch": "101",
+      "name": "Mayur Kotkar",
+      "firstname": "Mayur",
+      "lastname": "Kotkar",
+      "address": "33 sai apartment, tilk toad 11",
+      "state": "Tamil Nadu",
+      "city": "Chennai",
+      "zip": "52023",
+      "nationality": "Indian",
+      "phone": "8795123658",
+      "email": "mayue23@gmail.com",
+      "feespayable": "7000.00",
+      "feespaid": "7000.00",
+      "feesstatus": "Paid",
+      "qualification": "BE",
+      "gender": "male",
+      "registrationDateTime": "2024-11-20",
+      "addedBy": "User",
+      "date": "2023-10-03",
+      "duration": "3 months"
+    },
+    {
+      "id": "c25c",
+      "enrollment_id": "EN789456",
+      "course": "Python",
+      "batch": "101",
+      "firstname": "Virat",
+      "lastname": "Kohli",
+      "address": "12 hhh kkk, rd 12",
+      "state": "Punjab",
+      "city": "Surat",
+      "zip": "120302",
+      "nationality": "Indian",
+      "phone": "7896541239",
+      "email": "virat45@gmail.com",
+      "feespayable": "700.00",
+      "feespaid": "100.00",
+      "feesstatus": "Pending: 600.00",
+      "qualification": "M.com",
+      "gender": "male",
+      "registrationDateTime": "2024-11-20",
+      "addedBy": "Admin",
+      "date": "2024-11-06",
+      "duration": "2 years"
+    },
+    {
+      "id": "83ad",
+      "enrollment_id": "EN123456",
+      "course": "Python",
+      "batch": "102",
+      "firstname": "jzsjsj",
+      "lastname": "jjjj",
+      "address": "12 ddd fff, rf 12",
+      "state": "West Bengal",
+      "city": "Kolkata",
+      "zip": "7896325",
+      "nationality": "Indian",
+      "phone": "9874563212",
+      "email": "asd22@gmail.com",
+      "feespayable": "700.00",
+      "feespaid": "700.00",
+      "feesstatus": "Paid",
+      "qualification": "BE",
+      "gender": "male",
+      "registrationDateTime": "2024-11-22",
+      "addedBy": "Admin",
+      "date": "2024-11-19",
+      "duration": "3 years"
+    },
+    {
+      "id": "cae1",
+      "enrollment_id": "EN456678",
+      "course": "Salesforce",
+      "batch": "102",
+      "firstname": "lkjh",
+      "lastname": "iii",
+      "address": "78 ggg nhh, hhh jhhh 7",
+      "state": "Andhra Pradesh",
+      "city": "Mumbai",
+      "zip": "485282",
+      "nationality": "Indian",
+      "phone": "7896541230",
+      "email": "hjkjk23@gmail.com",
+      "feespayable": "800.00",
+      "feespaid": "800.00",
+      "feesstatus": "Paid",
+      "qualification": "ME",
+      "gender": "male",
+      "registrationDateTime": "2024-11-29",
+      "addedBy": "User",
+      "date": "2024-11-21",
+      "duration": "3 years"
+    },
+    {
+      "id": "7e2a",
+      "enrollment_id": "EN123022",
+      "course": "Python",
+      "batch": "102",
+      "firstname": "Rohit",
+      "lastname": "Sharma",
+      "address": "12 najs ass, asjj 09",
+      "state": "Punjab",
+      "city": "Mohali",
+      "zip": "789456",
+      "nationality": "Indian",
+      "phone": "9632587420",
+      "email": "rohit12@gmail.co",
+      "feespayable": "7800.00",
+      "feespaid": "7000.00",
+      "feesstatus": "Pending: 800.00",
+      "qualification": "ME",
+      "gender": "male",
+      "registrationDateTime": "2024-11-23",
+      "addedBy": "Admin",
+      "date": "2024-11-19",
+      "duration": "2 months"
+    }
+  ],
+  "exams": [
+    {
+      "code": "Emp124",
+      "title": "Math",
+      "date": "2024-11-23",
+      "marks": {
+        "0": {
+          "subject": "",
+          "maxMarks": ""
+        },
+        "subject": "Math",
+        "maxMarks": "100"
+      },
+      "isPublished": false,
+      "publishedAt": "",
+      "addedOn": "2024-11-23T02:41:31.631Z",
+      "addedBy": "Dipak",
+      "id": "0bbd"
+    },
+    {
+      "code": "BHU258",
+      "title": "M3",
+      "date": "2024-11-29",
+      "marks": {
+        "0": {
+          "subject": "",
+          "maxMarks": ""
+        },
+        "subject": "M3",
+        "maxMarks": "100"
+      },
+      "isPublished": false,
+      "publishedAt": "",
+      "addedOn": "2024-11-23T02:41:07.350Z",
+      "addedBy": "Mayur",
+      "id": "cfbb"
+    },
+    {
+      "id": "c072",
+      "code": "YHJ269",
+      "title": "Hindi",
+      "date": "2024-11-30",
+      "marks": {
+        "0": {
+          "subject": "",
+          "maxMarks": ""
+        },
+        "subject": "Hindi",
+        "maxMarks": "100"
+      },
+      "isPublished": false,
+      "publishedAt": "",
+      "addedOn": "2024-11-23T02:42:15.262Z",
+      "addedBy": "Mayur"
+    }
+  ],
+  "fees": [
+    {
+      "id": "1",
+      "receipt": "R10059",
+      "amount": "2000.00",
+      "enroll_id": "EN10031",
+      "studentname": "ankita",
+      "paymentmethod": "cash",
+      "paymentid": "-",
+      "date": "15-10-2024 2:30 PM",
+      "addedby": "userdemo"
+    },
+    {
+      "id": "2",
+      "receipt": "R10058",
+      "amount": "1000.00",
+      "enroll_id": "EN10032",
+      "studentname": "virat",
+      "paymentmethod": "cash",
+      "paymentid": "123123",
+      "date": "2-10-2024 11:55 PM",
+      "addedby": "institute_admin"
+    },
+    {
+      "id": "3",
+      "receipt": "R10057",
+      "amount": "1500.00",
+      "enroll_id": "EN10029",
+      "studentname": "Rohit",
+      "paymentmethod": "cash",
+      "paymentid": "56",
+      "date": "11-10-2024 11:51 AM",
+      "addedby": "userdemo"
+    },
+    {
+      "id": "9516",
+      "receipt": "R000522",
+      "amount": "8500.00",
+      "enroll_id": "EN123501",
+      "studentname": "Alia nn",
+      "paymentmethod": "Card",
+      "paymentid": "ASD120220",
+      "date": "2024-10-23T11:29",
+      "addedby": "Admin"
+    },
+    {
+      "id": "6042",
+      "receipt": "R1200222",
+      "amount": "7892.00",
+      "enroll_id": "EN855200",
+      "studentname": "Amit Barma",
+      "paymentmethod": "Demand Draft",
+      "paymentid": "ACD958520",
+      "date": "2024-10-23",
+      "addedby": "Admin"
+    },
+    {
+      "id": "873f",
+      "receipt": "R1200",
+      "amount": "789",
+      "enroll_id": "EN8552",
+      "studentname": "Amit Barma",
+      "paymentmethod": "Cheque",
+      "paymentid": "95852",
+      "date": "2024-10-23",
+      "addedby": "user"
+    },
+    {
+      "id": "06b7",
+      "receipt": "R1200",
+      "amount": "789",
+      "enroll_id": "EN8552",
+      "studentname": "Amit Barma",
+      "paymentmethod": "Cheque",
+      "paymentid": "95852",
+      "date": "2024-10-23",
+      "addedby": "user"
+    },
+    {
+      "id": "8f46",
+      "receipt": "R1200",
+      "amount": "789",
+      "enroll_id": "ENE",
+      "studentname": "Amit Barma",
+      "paymentmethod": "Cheque",
+      "paymentid": "95852",
+      "date": "2024-10-23",
+      "addedby": "user"
+    },
+    {
+      "id": "f15b",
+      "receipt": "R564789",
+      "amount": "5000.00",
+      "enroll_id": "EN231456",
+      "studentname": "Atul Magar",
+      "paymentmethod": "Cheque",
+      "paymentid": "AWE202022",
+      "date": "2024-11-21",
+      "addedby": "Admin"
+    },
+    {
+      "id": "a3fc",
+      "receipt": "R123450",
+      "amount": "800.00",
+      "enroll_id": "EN123020",
+      "studentname": "tyu hghh",
+      "paymentmethod": "Bank Transfer",
+      "paymentid": "MKL202020",
+      "date": "2024-11-22",
+      "addedby": "Admin"
+    },
+    {
+      "id": "dd1e",
+      "receipt": "R852369",
+      "amount": "700.00",
+      "enroll_id": "EN478965",
+      "studentname": "shh hshsh",
+      "paymentmethod": "Bank Transfer",
+      "paymentid": "QWE123456",
+      "date": "2024-11-21",
+      "addedby": "User"
+    },
+    {
+      "id": "650b",
+      "receipt": "R45625666666666666654",
+      "amount": "   700.00",
+      "enroll_id": "EN122325",
+      "studentname": "Atul Magar",
+      "paymentmethod": "Cash",
+      "paymentid": "ASE123456",
+      "date": "2024-11-23",
+      "addedby": "User"
+    },
+    {
+      "id": "b8df",
+      "receipt": "R25698536",
+      "amount": "700.00",
+      "enroll_id": "EN1234562525232",
+      "studentname": "Rahul Kumar",
+      "paymentmethod": "Cheque",
+      "paymentid": "ASD123456",
+      "date": "2024-11-23",
+      "addedby": "User"
+    }
+  ],
+  "newcourse": [
+    {
+      "id": "4942",
+      "course_code": "7654",
+      "course_name": "power bi",
+      "course_detail": "ed",
+      "duration": "5",
+      "duration_in": "Months",
+      "fees": "5000",
+      "is_active": "on"
+    },
+    {
+      "id": "2b6d",
+      "course_code": "35",
+      "course_name": "javafullstack",
+      "course_detail": "java",
+      "duration": "6",
+      "duration_in": "Months",
+      "fees": "50000",
+      "is_active": "on"
+    },
+    {
+      "id": "3b4e",
+      "course_code": "10",
+      "course_name": "power bi",
+      "course_detail": "bi",
+      "duration": "2",
+      "duration_in": "Months",
+      "fees": "25000",
+      "is_active": "on"
+    },
+    {
+      "id": "5d6d",
+      "course_code": "test",
+      "course_name": "test",
+      "course_detail": "test",
+      "duration": "test",
+      "duration_in": "Days",
+      "fees": "234",
+      "is_active": "on"
+    },
+    {
+      "id": "8412",
+      "course_code": "123",
+      "course_name": "fullstack",
+      "course_detail": "Html",
+      "duration": "3",
+      "duration_in": "Months",
+      "fees": "3456",
+      "is_active": "on"
+    },
+    {
+      "id": "aaee",
+      "course_code": "42433434456",
+      "course_name": "rgdrgdfghg",
+      "course_detail": "grdfhdfhgh",
+      "duration": "4",
+      "duration_in": "Months",
+      "fees": "4353535",
+      "is_active": "Yes"
+    },
+    {
+      "id": "48ea",
+      "course_code": "1234567",
+      "course_name": "drgddrrgdfhgdr",
+      "course_detail": "drdthfth",
+      "duration": "5",
+      "duration_in": "Months",
+      "fees": "34566",
+      "is_active": "Yes"
+    },
+    {
+      "id": "7a28",
+      "course_code": "1223r3wr",
+      "course_name": "xvxdvxdv",
+      "course_detail": "sfsegfdrsfd",
+      "duration": "4",
+      "duration_in": "Days",
+      "fees": "24234324",
+      "is_active": "Yes"
+    },
+    {
+      "id": "658d",
+      "course_code": "123456",
+      "course_name": "python",
+      "course_detail": "python",
+      "duration": "4",
+      "duration_in": "Months",
+      "fees": "12234",
+      "is_active": "Yes"
+    }
+  ],
+  "enquiry": [
+    {
+      "code": "EN123",
+      "addmision": "Defensive Diving Training (DTT)(Fees:8000.00)",
+      "title": "Dipak",
+      "last": "Pund",
+      "phone": "90222585997",
+      "email": "punddipak@gmail.com",
+      "address": "pune",
+      "city": "pune",
+      "state": "Maharashtra",
+      "date": "2024-11-23",
+      "gender": "Male",
+      "isPublished": true,
+      "publishedAt": "",
+      "addedOn": "2024-11-23T04:55:13.630Z",
+      "addedBy": "SuperAdmin",
+      "id": "ce96"
+    },
+    {
+      "code": "EN155",
+      "addmision": "RSM(1/24)(Fees:0.00)",
+      "title": "Pawan",
+      "last": "Badak",
+      "phone": "6688955445",
+      "email": "Pawan@123gmail.com",
+      "address": "Wagholi",
+      "city": "Pune",
+      "state": "Maharastra",
+      "date": "2024-10-17",
+      "gender": "Male",
+      "isPublished": true,
+      "publishedAt": "",
+      "addedOn": "2024-11-22T18:13:35.995Z",
+      "addedBy": "Admin",
+      "id": "6a83"
+    },
+    {
+      "id": "8eab",
+      "code": "En1",
+      "addmision": "java(bca301)(Fees:2000.00)",
+      "title": "Bhushan",
+      "last": "Bankar",
+      "phone": "8805228011",
+      "email": "bhushan123@gmail.com",
+      "address": "2/8 Civil hadko ",
+      "city": "Nagar",
+      "state": "Mha",
+      "date": "2024-11-26",
+      "gender": "Male",
+      "isPublished": false,
+      "publishedAt": "",
+      "addedOn": "2024-11-23T04:47:13.522Z",
+      "addedBy": "Admin"
+    }
+  ],
+  "batches": [
+    {
+      "code": "EN110",
+      "addmision": "DBMS(D01)(Fees:6000.00)",
+      "title": "Morning Batch",
+      "date": "2024-10-25",
+      "isPublished": true,
+      "publishedAt": "",
+      "addedOn": "2024-11-22T16:48:28.606Z",
+      "addedBy": "Abhi",
+      "id": "3d44"
+    },
+    {
+      "id": "bd22",
+      "code": "EN1",
+      "addmision": "(java)(Fees:2000.00)",
+      "title": "AdvanceJava",
+      "date": "2024-11-30",
+      "isPublished": false,
+      "publishedAt": "",
+      "addedOn": "2024-11-22T18:15:05.979Z",
+      "addedBy": "Admin"
+    },
+    {
+      "code": "En123",
+      "addmision": "(java)(Fees:2000.00)",
+      "title": "corebatch",
+      "date": "2024-11-28",
+      "isPublished": true,
+      "publishedAt": "",
+      "addedOn": "2024-11-23T04:57:42.501Z",
+      "addedBy": "Admin",
+      "id": "0f1e"
     }
   ]
 }

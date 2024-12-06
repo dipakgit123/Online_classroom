@@ -1,0 +1,49 @@
+.cour{
+    text-align: center;
+}
+.cour h1{
+    font-size: 50px;
+}
+.under{
+    border-bottom: 1px solid grey;
+}
+.cour svg{
+    font-size: 50px;
+    margin-top: -10px;
+}
+
+.para3{
+    background-color: #d4edda;
+    padding: 13px;
+    text-align: center;
+    width: auto;
+    border-radius: 10px;
+    margin-left:30px ;
+    margin-right: 30px;
+
+}
+
+.cour1{
+    border: 1px solid #EFEFEF;
+    margin-top: 40px;
+    margin-left: 20px;
+    border-radius: 5px;
+        /* padding: 10px; */
+  }
+
+  .courhead{
+    background-color:#F7F7F7;
+    padding: 10px;
+    border-bottom: 1px solid grey;
+    font-size: 27px;
+    font-weight:bold;
+    color:#212529;
+    margin: 15px;
+    border-radius: 5px;
+    display: flex;
+    justify-content: space-between;
+  }
+  .addbtn:hover{
+    background-color:#007BFF;
+    color: white;
+  }

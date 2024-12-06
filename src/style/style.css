@@ -126,6 +126,11 @@
   margin-top: 10px;
 }
 
+.button-group {
+  display: flex;
+  gap: 10px; /* Add some space between the buttons */
+} 
+
 .signup_btn button{
   border: none;
   background-color: white;
@@ -143,4 +148,93 @@
     border: none;
     font-weight: 500;
     background-image: linear-gradient(to right, #0093FF, #004FFF);
+}
+
+
+.form-row {
+  display: flex;
+  gap: 20px; 
+}
+
+.form-row .form-group {
+  flex: 1; 
+}
+
+.form-group{
+  margin-top: 20px;
+}
+
+.form-input {
+  width: 100%;
+  padding: 8px;
+  margin-top: 5px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+.form-group label {
+  font-size: 14px;
+  color: #333;
+}
+
+.btn-submit {
+  padding-bottom: 30px;
+}
+
+.edit-form {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  background-color: #f9f9f9;
+}
+/* style={{marginLeft:'16px', padding:"2px 10px", borderRadius:'5px',height:'35px', backgroundColor:'green',color:'white', textAlign:'center'}} */
+
+/* student search */
+.year_month{
+  display: flex;
+  align-items: center;
+}
+
+.year_month span{
+  font-weight: bold;
+  margin-left: 15px;
+}
+
+.Month{
+padding: 10px;
+width: 30%;
+margin-left: 0.5rem;
+border-radius: 2px;
+height:35px
+}
+
+.year_month .btn_filter{
+  margin-left: 16px;
+  padding: 2px 10px;
+  border-radius: 5px;
+  height: 35px;
+  background-color: green;
+  color: white;
+}
+
+
+.Search_Item{
+  padding: 5px;
+  width: 80%;
+  margin-left: 0.5rem;
+  border-radius: 2px;
+  height: 30px;
+}
+
+.Search_Item:hover{
+  border: 1px  solid #007bff;
+}
+
+
+.error-message{
+  color: red;
+  font-size: 14px;
 }
